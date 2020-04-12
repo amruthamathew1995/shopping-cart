@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "Brandname": "brand1",
+      "Productname": "chair",
+      "Quantity": 10,
+      "Price": 225,
+      "MRP":250 ,
+      "ImageURL": "./img/chair.jpg",
+      "OfferText": "10% off"
+    },
+    {
+      "Brandname": "brand2",
+      "Productname": "table",
+      "Quantity": 20,
+      "Price":369,
+      "MRP": 450,
+      "ImageURL": "./img/table.jpg",
+      "OfferText": "18% off"
+    },
+    {
+      "Brandname": "brand3",
+      "Productname": "tv",
+      "Quantity": 15,
+      "Price":900,
+      "MRP": 4500,
+      "ImageURL": "./img/tv.jpg",
+      "OfferText": "20% off"
+    },
+    {
+      "Brandname": "brand4",
+      "Productname": "sofa",
+      "Quantity": 15,
+      "Price": 1104,
+      "MRP": 1200,
+      "ImageURL": "./img/sofa.jpg",
+      "OfferText": "8% off"
+    },
+    {
+      "Brandname": "brand5",
+      "Productname": "shelf",
+      "Quantity": 10,
+      "Price": 408,
+      "MRP": 498,
+      "ImageURL": "./img/shelf.jpg",
+      "OfferText": "18% off"
+    },
+    {
+      "Brandname": "brand 6",
+      "Productname": "product 6",
+      "Quantity": 10,
+      "Price": 408,
+      "MRP": 498,
+      "ImageURL": "./img/mobile.jpg",
+      "OfferText": "18% off"
+    },
+    {
+      "Brandname": "brand 7",
+      "Productname": "product 7",
+      "Quantity": 10,
+      "Price": 408,
+      "MRP": 498,
+      "ImageURL": "./img/laptop.jpg",
+      "OfferText": "18% off"
+    },
+    {
+      "Brandname": "brand 8",
+      "Productname": "product 8",
+      "Quantity": 10,
+      "Price": 408,
+      "MRP": 498,
+      "ImageURL": "./img/jiofi.jpg",
+      "OfferText": "18% off"
+    },
+    {
+      "Brandname": "brand 9",
+      "Productname": "product 9",
+      "Quantity": 10,
+      "Price": 408,
+      "MRP": 498,
+      "ImageURL": "./img/beanbag.jpg",
+      "OfferText": "18% off"
+    },
+    {
+      "Brandname": "brand 10",
+      "Productname": "product 10",
+      "Quantity": 10,
+      "Price": 408,
+      "MRP": 498,
+      "ImageURL": "./img/ac.jpg",
+      "OfferText": "18% off"
+    }
+  ]
+}
